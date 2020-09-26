@@ -1,2 +1,2 @@
-# screenshot_auto
+# screenshotーauto
 自動スクリーンショットアプリ
